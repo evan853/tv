@@ -1,3 +1,4 @@
 央视频道,#genre#
 卫视频道,#genre#
+云南卫视,http://118.72.69.36:888/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
